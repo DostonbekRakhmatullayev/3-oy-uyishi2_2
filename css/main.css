@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/livvic-v13-latin-regular.eot'); 
+  src: url('../fonts/livvic-v13-latin-regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/livvic-v13-latin-regular.woff2') format('woff2'),
+       url('../fonts/livvic-v13-latin-regular.woff') format('woff'),
+       url('../fonts/livvic-v13-latin-regular.ttf') format('truetype'),
+       url('../fonts/livvic-v13-latin-regular.svg#Livvic') format('svg'); 
+}
+@font-face {
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/livvic-v13-latin-700.eot'); 
+  src: url('../fonts/livvic-v13-latin-700.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/livvic-v13-latin-700.woff2') format('woff2'), 
+       url('../fonts/livvic-v13-latin-700.woff') format('woff'), 
+       url('../fonts/livvic-v13-latin-700.ttf') format('truetype'),
+       url('../fonts/livvic-v13-latin-700.svg#Livvic') format('svg'); 
+}
+
+body {
+  font-family: "Livvic";
+}
+ul {
+  list-style-type: none !important;
+}
+
+.img {
+  top:-28px;
+  left: 145px;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+.text {
+  font-weight: bold;
+}
